@@ -1,0 +1,12 @@
+.category {
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 50px;
+}
+nav a:hover {
+    color: fuchsia;
+}
